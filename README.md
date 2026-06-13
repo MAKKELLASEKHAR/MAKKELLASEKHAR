@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Sekhar Makkella 👋
 
-<!--
-**MAKKELLASEKHAR/MAKKELLASEKHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Software Development Engineer (SDE-1)** with over 3 years of professional experience specializing in robust backend development. Currently, I work in the **Healthcare Domain** at GYTWorkz Technologies, building scalable and efficient enterprise solutions.
 
-Here are some ideas to get you started:
+Beyond my core expertise, I am a polyglot developer familiar with full-stack architectures and cloud technologies, and I am actively expanding my skillset into the world of Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- 🛠️ **Backend Architecture:** Designing secure, reliable APIs and microservices primarily using Java and ecosystem tools.
+- 🏥 **Domain Expertise:** Solving complex workflows and managing high-compliance data structures within healthcare tech.
+- 🤖 **AI Exploration:** Actively learning AI concepts and building projects to integrate intelligent models into web applications.
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Java, .NET Core |
+| **Frontend** | HTML5, CSS3, JavaScript (Familiar) |
+| **Databases** | PL/SQL, MySQL, MongoDB |
+| **Cloud & DevOps** | Amazon Web Services (AWS), Git, GitHub |
+| **Specializations** | Healthcare Domain Workflows, Restful APIs, AI Project Integration |
+
+---
+
+### 📈 Current Focus & Learning Goals
+- 🧠 Deepening my understanding of Machine Learning and AI engineering workflows.
+- ☁️ Advanced AWS cloud architecture and serverless deployments.
+- 🤝 Contributing to impactful open-source projects.
+
+---
+
+### 🌐 Connect With Me
+- **LinkedIn:** [shekhar-makkella](https://www.linkedin.com/in/shekhar-makkella)
+- **Email:** *[Your professional email here]*
+
+*“Building the backends that power tomorrow’s intelligent systems.”*
