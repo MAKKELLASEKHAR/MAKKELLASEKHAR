@@ -18,10 +18,10 @@ Beyond my core expertise, I am a polyglot developer familiar with full-stack arc
 | Category | Technologies |
 | :--- | :--- |
 | **Backend** | Java, .NET Core |
-| **Frontend** | HTML5, CSS3, JavaScript (Familiar) |
+| **Frontend** | HTML5, CSS3, JavaScript |
 | **Databases** | PL/SQL, MySQL, MongoDB |
 | **Cloud & DevOps** | Amazon Web Services (AWS), Git, GitHub |
-| **Specializations** | Healthcare Domain Workflows, Restful APIs, AI Project Integration |
+| **Specializations** | Healthcare Domain Workflows, EPIC Integrations, AI Project Integration, Restful APIs |
 
 ---
 
@@ -34,6 +34,6 @@ Beyond my core expertise, I am a polyglot developer familiar with full-stack arc
 
 ### 🌐 Connect With Me
 - **LinkedIn:** [shekhar-makkella](https://www.linkedin.com/in/shekhar-makkella)
-- **Email:** *[Your professional email here]*
+- **Email:** *[shekharmakkella@gmail.com]*
 
 *“Building the backends that power tomorrow’s intelligent systems.”*
