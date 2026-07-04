@@ -1,6 +1,6 @@
 # Hi there, I'm Sekhar Makkella 👋
 
-Backend Software Engineer | Java | Spring Boot | AWS | REST APIs | Cloud | AI Enthusiast
+**Backend Software Engineer | Java | Spring Boot | AWS | REST APIs | Cloud | AI Enthusiast**
 
 I'm a Backend Software Engineer with 3+ years of professional experience designing and developing scalable enterprise applications. My primary expertise is in building secure, high-performance backend systems using Java and the Spring ecosystem.
 
