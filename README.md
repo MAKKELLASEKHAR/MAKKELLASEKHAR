@@ -1,4 +1,4 @@
-# Hi there, I'm Sekhar Makkella 👋
+# Hi there, I'm Shekhar Makkella 👋
 
 **Backend Software Engineer | Java | Spring Boot | AWS | REST APIs | Cloud | AI Enthusiast**
 
