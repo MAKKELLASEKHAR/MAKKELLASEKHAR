@@ -1,8 +1,12 @@
 # Hi there, I'm Sekhar Makkella 👋
 
-I am a passionate **Software Development Engineer (SDE-1)** with over 3 years of professional experience specializing in robust backend development. Currently, I work in the **Healthcare Domain** at GYTWorkz Technologies, building scalable and efficient enterprise solutions.
+Backend Software Engineer | Java | Spring Boot | AWS | REST APIs | Cloud | AI Enthusiast
 
-Beyond my core expertise, I am a polyglot developer familiar with full-stack architectures and cloud technologies, and I am actively expanding my skillset into the world of Artificial Intelligence.
+I'm a Backend Software Engineer with 3+ years of professional experience designing and developing scalable enterprise applications. My primary expertise is in building secure, high-performance backend systems using Java and the Spring ecosystem.
+
+Throughout my career, I've worked on enterprise applications across Healthcare and Insurance/Financial Services, delivering reliable solutions, integrating third-party platforms, implementing secure authentication systems, and supporting production environments.
+
+I enjoy solving complex backend challenges, designing clean APIs, and continuously learning modern cloud and AI technologies.
 
 ---
 
@@ -28,7 +32,8 @@ Beyond my core expertise, I am a polyglot developer familiar with full-stack arc
 ### 📈 Current Focus & Learning Goals
 - 🧠 Deepening my understanding of Machine Learning and AI engineering workflows.
 - ☁️ Advanced AWS cloud architecture and serverless deployments.
-- 🤝 Contributing to impactful open-source projects.
+- **EPIC** Integrations in Health care applications.
+  
 
 ---
 
